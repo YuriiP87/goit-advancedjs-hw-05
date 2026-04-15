@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/main.ts"],"sourcesContent":["function add(num1: number, num2: number): number {\n  return num1 + num2;\n}\n\nconsole.log(add(1, 1));"],"names":["add","num1","num2"],"mappings":"ssBAAA,SAASA,EAAIC,EAAcC,EAAsB,CAC/C,OAAOD,EAAOC,CAChB,CAEA,QAAQ,IAAIF,EAAI,EAAG,CAAC,CAAC"}
